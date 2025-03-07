@@ -8,4 +8,11 @@ int main() {
    }
    else if (year % 100 == 0) {
       printf("%d is not a leap year.", year);
-   } 
+   }
+   else {
+      printf("%d is not a leap year.", year);
+   }
+
+   return 0;
+}
+

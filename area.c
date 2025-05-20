@@ -3,6 +3,8 @@ void main()
 {
 	float area,pi=3.14;
 	int r;
+	
+trfdgcfEGKHDCNMVC,;/H
 	printf("enter the radius:");
 	scanf("%d"&r);
         area=pi*r*r;
